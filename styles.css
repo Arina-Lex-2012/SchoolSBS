@@ -5,11 +5,15 @@ b {
 
 i {
   color: lightsalmon;
-  font-size: 20px;
 }
 
 span {
   color: darkorange;
   font-size: 20px;
   font-weight: bold;
+}
+
+#ee {
+  border: 1px;
+  width: 700;
 }
